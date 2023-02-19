@@ -10,7 +10,7 @@ This application is windows only. (Tested on Windows 11)
 
 ## Installation
 
-You can download it from [itch.io](itch.io) for free.
+You can download it from [itch.io](https://itch.io/) for free.
 
 ## License
 

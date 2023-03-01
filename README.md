@@ -10,5 +10,5 @@ This application is **Windows Only**. (Tested on Windows 11)
 
 ## Installation
 
-You can download it from [itch.io](https://itch.io/) for free.
+You can download the installer from [itch.io](https://itch.io/) for free.
 

@@ -11,5 +11,5 @@ This application is **Windows Only**. (Tested on Windows 11)
 ## Installation
 
 You can download the installer from [itch.io](https://zneehh.itch.io/discord-custom-activity) for free.
-The tutorial on how to use this software is also on the itch.io page.
+The tutorial on how to use this software is also on the [itch.io page](https://zneehh.itch.io/discord-custom-activity).
 
